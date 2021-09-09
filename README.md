@@ -12,12 +12,23 @@ Each automation was developed in <b>Python 3</b>.
   Below I list the libraries used mostly:
 <br><br>
   <ul>
-    <li>Pandas</li>
-    <li>Beautiful Soup</li>
-    <li>Selenium</li>
+    <a href="https://pandas.pydata.org/"><li>Pandas</li></a>
+    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><li>Beautiful Soup</li></a>
+    <a href="https://www.selenium.dev/"><li>Selenium</li></a>
+    <a href="https://regexr.com/"><li>Regex</li></a>
+    <a href="https://scrapy.org/"><li>Scrapy</li></a>
   </ul>
-<br><br>
+<br>
+The following libraries / packages will be packages before running the project:
+<br>
 
+```bash
+pip install selenium
+pip install pandas
+pip install scrapy
+```
+
+<br><br>
 <h1>PT/br</h1>
 <h2>RPA - Automação de Processos</h2>
 <br>
@@ -30,8 +41,18 @@ Cada automação foi desenvolvida em <b>Python 3</b>.
 Abaixo listo as bibliotecas utilizadas em sua maioria:
 <br><br>
   <ul>
-    <li>Pandas</li>
-    <li>Beautiful Soup</li>
-    <li>Selenium</li>
+    <a href="https://pandas.pydata.org/"><li>Pandas</li></a>
+    <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><li>Beautiful Soup</li></a>
+    <a href="https://www.selenium.dev/"><li>Selenium</li></a>
+    <a href="https://regexr.com/"><li>Regex</li></a>
+    <a href="https://scrapy.org/"><li>Scrapy</li></a>
   </ul>
-  
+<br>
+As seguintes bibliotecas /pacotes precisam ser instalados antes de rodar o projeto:
+<br>
+
+```bash
+pip install selenium
+pip install pandas
+pip install scrapy
+```
